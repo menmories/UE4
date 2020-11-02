@@ -13,6 +13,9 @@ void PlayerGameMode::PlayerGameMode()
 		DefaultPawn = PlayerCharacter.Class;
 	}
 	//failed to load character blueprint.
+	
+	//HUD
+	//HUDClass = XXXX::StaticClass();
 }
 
 
