@@ -5,8 +5,8 @@
 
 
 
-
-
+//Slate样式注册单例
+SlateStyleRegSingleton
 
 
 
