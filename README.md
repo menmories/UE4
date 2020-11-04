@@ -16,7 +16,7 @@ AHUD:
 
 HUD是一个抬头显示器,能够绘制线条、贴图等基本元素
 
-TSubClassOf<UMyUserWidget> MyUserWidgetClass;
+TSubClassOf<<UMyUserWidget>UMyUserWidget> MyUserWidgetClass;
 
 UMyUserWidget* MyUserWidget;
 
